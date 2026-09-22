@@ -42,10 +42,10 @@ I enjoy turning messy business problems into clean, maintainable digital systems
 
 ## Core Competencies
 
-- Architecture: bespoke CMS systems, custom e-commerce checkouts, full-stack integrations
-- Infrastructure: Linux environments, deployment workflows, uptime-oriented systems
-- Tooling: shell scripting, Git workflows, automation, observability and system metrics
-- Medium-level + AI: C memory concepts, local model pipelines, structured output orchestration
+- **Architecture:** bespoke CMS systems, custom e-commerce checkouts, full-stack integrations
+- **Infrastructure:** Linux environments, deployment workflows, uptime-oriented systems
+- **Tooling:** shell scripting, Git workflows, automation, observability and system metrics
+- **Systems + AI:** C memory concepts • local LLM pipelines • structured output orchestration
 
 ---
 
