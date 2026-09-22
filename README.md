@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Faustas
 
-<!--
-**faustasmarg-eng/faustasmarg-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer & System Builder based in the UK.
 
-Here are some ideas to get you started:
+What I'm Focused On:
+**Agency & Web Engineering:** Hand-building custom CMS backends, booking engines, and bespoke business infrastructure for UK businesses.
+**AI Integration:** Building practical AI workflows, structured LLM pipelines, and local agent tooling. 
+**Linux Workstations:** Customizing Unix environments, terminal workflows, and system metrics configurations. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack:
+**Languages & Backend:** Python, C, Typescript, HTML5/CSS3.
+**Systems & Dev Environment:** Linux (Hyprland / Kitty), Git & GitHub, Bash / Shell.
+**Core Focus:** Bespoke CMS Architecture, API Integration, Medium-Level Systems Execution.
+
+---
+
+**Get in Touch:** [faustasmarg@gmail.com](mailto:faustasmarg@gmail.com)
+
+
+
