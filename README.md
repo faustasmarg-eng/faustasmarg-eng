@@ -1,4 +1,4 @@
-# Hi, I'm Faustas 👋
+# Hi, I'm Faustas 
 
 Full-Stack Developer & Systems Builder based in Northampton, UK.  
 Co-founder & Engineer at **[RedFox Software Solutions](https://redfoxss.co.uk/)** — building custom web systems, bespoke CMS platforms, and high-uptime infrastructure.
