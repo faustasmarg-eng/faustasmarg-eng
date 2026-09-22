@@ -1,11 +1,24 @@
-# Hi, I'm Faustas 
+# Hi, I'm Faustas
 
-Full-Stack Developer & Systems Builder based in Northampton, UK.  
-Co-founder & Engineer at **[RedFox Software Solutions](https://redfoxss.co.uk/)** — building custom web systems, bespoke CMS platforms, and high-uptime infrastructure.
+Full-Stack Developer and Systems Builder based in Northampton, UK.
+
+Co-founder and engineer at [RedFox Software Solutions](https://redfoxss.co.uk/), where I build custom web systems, bespoke CMS platforms, booking engines, and reliable infrastructure for clients across the UK.
+
+I enjoy turning messy business problems into clean, maintainable digital systems — from the database and API layer to the UI and deployment pipeline.
 
 ---
 
-### 🛠️ Tech Stack & Environment
+## About Me
+
+- 🔧 Building custom CMS backends and business tooling
+- ⚙️ Designing resilient web infrastructure and deployment workflows
+- 🧠 Exploring low-level performance, memory models, and systems execution
+- 🤖 Integrating practical AI workflows and local LLM tooling into real products
+- 🐧 Optimising Unix/Linux workstation environments with automation and shell-first workflows
+
+---
+
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -18,23 +31,27 @@ Co-founder & Engineer at **[RedFox Software Solutions](https://redfoxss.co.uk/)*
 
 ---
 
-### 🚀 What I'm Focused On
+## What I'm Focused On
 
-* 🦊 **Agency & Web Infrastructure:** Hand-building custom CMS backends, booking engines, back-office dashboards, and bespoke business infrastructure for UK clients at **RedFox**.
-* ⚡ **Systems Execution & Low-Level Mechanics:** Exploring hardware-level execution, memory management, C, and low-level performance concepts.
-* 🤖 **AI Integration & Workflow Tooling:** Building practical AI automation, structured LLM pipelines (Ollama), and local agent integration into web systems.
-* 🐧 **Linux Workstations & Tooling:** Customizing terminal-driven Unix environments, shell automation, and custom system metrics layouts (`Hyprland` / `Kitty`).
-
----
-
-### 💡 Core Competencies
-
-- **Architecture:** Bespoke CMS Systems • Custom E-commerce Checkouts • Full-Stack API Integration
-- **Dev Environment:** Linux Workstations • Shell Scripting • Git Workflows & Deployment
-- **Medium-Level & AI:** C Memory Concepts • Local Model Pipelines • Structured Output Orchestration
+- 🦊 Agency and business systems: custom CMS platforms, back-office tools, dashboards, and booking workflows
+- ⚡ Systems and low-level mechanics: C, memory management, execution models, and performance-oriented thinking
+- 🤖 AI integration: practical workflows, structured LLM pipelines, Ollama-based tooling, and automation
+- 🐧 Linux workstation setups: terminal-first environments, shell automation, and custom developer tooling
 
 ---
 
-### 📫 Get in Touch
+## Core Competencies
 
-- ✉️ **Direct Email:** [faustasmarg@gmail.com](mailto:faustasmarg@gmail.com)
+- Architecture: bespoke CMS systems, custom e-commerce checkouts, full-stack integrations
+- Infrastructure: Linux environments, deployment workflows, uptime-oriented systems
+- Tooling: shell scripting, Git workflows, automation, observability and system metrics
+- Medium-level + AI: C memory concepts, local model pipelines, structured output orchestration
+
+---
+
+## Get in Touch
+
+- ✉️ Email: [faustasmarg@gmail.com](mailto:faustasmarg@gmail.com)
+- 🌐 Website: [RedFox Software Solutions](https://redfoxss.co.uk/)
+
+"I like building systems that are useful, reliable, and thoughtfully engineered."
